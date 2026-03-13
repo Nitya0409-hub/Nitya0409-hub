@@ -2,6 +2,19 @@
 
 I am a Software Developer with a passion for learning new technologies and exploring the world of **Cloud Computing**.
 
+# 🚀 Software Developer | Aspiring Cloud Architect
+
+Building robust applications with a focus on scalability and cloud infrastructure. Currently bridging the gap between traditional software development and modern cloud-native solutions.
+
+---
+
+### 🔍 About Me:
+- 🔭 **I’m currently working on:** Mastering **AWS** and **Kubernetes**.
+- 🌱 **Learning:** How to build and maintain highly available, fault-tolerant systems.
+- 💬 **Ask me about:** **C++**, **Python**, or **Cloud Migrations**.
+- ⚡ **Fun fact:** I enjoy diving deep into how compilers work under the hood.
+
+---
 ---
 
 ## 💻 Tech Stack:
