@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Nitya!
+# Hi, I'm Nitya!
 
-I am a Software Developer with a passion for learning new technologies and exploring the world of **Cloud Computing**.
+<!-- I am a Software Developer with a passion for learning new technologies and exploring the world of **Cloud Computing**. -->
 
-# 🚀 Software Developer | Aspiring Cloud Architect
+# Software Developer | Aspiring Cloud Architect
 
 Building robust applications with a focus on scalability and cloud infrastructure. Currently bridging the gap between traditional software development and modern cloud-native solutions.
 
@@ -14,7 +14,6 @@ Building robust applications with a focus on scalability and cloud infrastructur
 - 💬 **Ask me about:** **C++**, **Python**, or **Cloud Migrations**.
 - ⚡ **Fun fact:** I enjoy diving deep into how compilers work under the hood.
 
----
 ---
 
 ## 💻 Tech Stack:
