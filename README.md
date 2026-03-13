@@ -40,8 +40,6 @@ I am currently focusing on expanding my knowledge in Cloud Infrastructure and De
 
 ## 📊 GitHub Stats:
 
-<!-- <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Nitya0409-hub&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true" alt="Nitya's Stats" /> -->
 <br/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=Nitya0409-hub&theme=ambient_gradient&hide_border=true" alt="Nitya's Streak" />
 <br/>
